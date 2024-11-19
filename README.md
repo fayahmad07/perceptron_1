@@ -1,7 +1,3 @@
-Berikut deskripsi repositori yang diperbarui:
-
----
-
 # perceptron_1
 
 Repositori ini berisi implementasi sederhana dari algoritma Perceptron menggunakan Python. Perceptron merupakan salah satu tipe jaringan saraf buatan paling dasar yang digunakan untuk tugas klasifikasi biner.
